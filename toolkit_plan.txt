@@ -1,0 +1,22 @@
+Personal Mini-Toolkit Plan
+
+Tools Included:
+1. To-Do List Manager: Allows users to add, view, and remove tasks from an interactive list. Uses a list, conditionals, and loops.
+2. Number Guessing Game: Generates a random number and challenges the user to guess it with feedback. Uses loops, conditionals, and random modules.
+3. Tip Calculator: Calculates the total bill and tip amount based on user input. Uses conditionals and f-strings for formatted output.
+
+Exact Menu Text:
+==============================
+   PERSONAL MINI-TOOLKIT
+==============================
+1. To-Do List Manager
+2. Number Guessing Game
+3. Tip Calculator
+4. Quit
+Enter your choice (1-4): 
+
+Concepts Used:
+- Loops (while loops for the main menu and game loops)
+- Conditionals (if/elif/else blocks for choice routing and game validation)
+- Lists (storing dynamic tasks in the to-do list)
+- F-strings (friendly user formatting throughout)
